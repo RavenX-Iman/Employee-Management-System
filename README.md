@@ -68,7 +68,7 @@ C:.
 1. Clone this repository to your local machine.  
 2. Open the project in your preferred IDE.  
 3. Configure the MySQL database:
-   - Create a database and import the required schema (refer to the `database.sql` file, if available).  
+   - Create a database and import the required schema (refers to the `Database Script EMS.sql` file).  
    - Update the database connection credentials in the source code.  
 4. Compile and run the project using the IDE.  
 
