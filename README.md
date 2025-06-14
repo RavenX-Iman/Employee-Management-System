@@ -1,3 +1,4 @@
+![Screenshot 2025-03-15 022455](https://github.com/user-attachments/assets/f35d523d-6f64-4c92-9caa-fecd23ca3990)
 
 # Employee Management System  
 
@@ -83,8 +84,17 @@ C:.
 
 ## Screenshots  
 
+### 1. Add Employee
+![Add-Employee-collage](https://github.com/user-attachments/assets/d0a3675c-6b4e-48ea-a5f0-5c417aeadbce)
+
+### 2. View Employee
+![View-Employee-collage](https://github.com/user-attachments/assets/2e7a5fad-f9a0-4c37-b5b9-fa2568be4b99)
+
+### 3. Remove Employee
+![Remove-Employee-collage](https://github.com/user-attachments/assets/4130a585-3d16-4efc-a993-68c95c8637d6)
+
 ---
 
 ## Authors  
 
-- **Iman Tahir | Huma Ijaz** 
+- **Iman Tahir | [Huma Ijaz](https://github.com/Huma-Ijaz)**
